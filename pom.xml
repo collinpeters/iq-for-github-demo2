@@ -20,15 +20,16 @@
 		</dependency>
 
     <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.8</version>
-    </dependency>
-
-    <dependency>
       <groupId>commons-fileupload</groupId>
       <artifactId>commons-fileupload</artifactId>
       <version>1.2.2</version>
+    </dependency>
+
+    <!--
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.8</version>
     </dependency>
 
     <dependency>
@@ -42,6 +43,7 @@
       <artifactId>aws-java-sdk-core</artifactId>
       <version>1.12.261</version>
     </dependency>
+      -->
 
   </dependencies>
 
